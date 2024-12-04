@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<htmml>
+    <head>
+    <title>Kaylar</title>
+    <link href="c:\Users\ahmed\Desktop\حسام\New folder\Ghost.png">
+    <link href="hossam.css"     rel="stylesheet">
+    <style>
+        h1{
+            color: rgb(0, 0, 0);
+            font-size: 50px;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-display: initial;
+            text-shadow: red 2px 2px 5px;
+            font-family: inherit;
+            text-align: center;
+            border-color: white;
+            border-style: solid;
+        }
+
+        p{
+            color: rgb(0, 0, 0);
+            font-size: 25px;
+        }
+
+        li{
+            color: rgb(0, 0, 0);
+            font-size: 20px;
+        }
+        #hossam{
+            color: rgb(255, 0, 0);
+            font-family: inherit;
+            font-size: 20px;
+            text-shadow: black 2px 1px 2px;
+
+        }
+        #ahmed{
+            color: rgb(0, 26, 255);
+            font-family: inherit;
+            font-size: 20px;
+            text-shadow: black 2px 1px 2px;
+        }
+        #ghost{
+            color: rgb(255, 0, 234);
+            font-family: inherit;
+            font-size: 20px;
+            text-shadow: black 2px 1px 2px;
+        }
+
+        #yoyo{
+            color: rgb(0, 255, 0);
+        }
+        button{
+            color: rgb(0, 255, 64);
+            font-family: inherit;
+            font-size: 20px;
+            text-shadow: rgb(0, 0, 0) 2px 1px 2px;
+            background-color: rgb(0, 0, 0);
+        }
+    
+    </style>
+</head>
+
+<body>
+    <h1><i>welcom to my websaid</i></h1>
+    <p>انا كايلر حلمي دخول الشراكه قريبا في الشراكه ان شاء الله الغرض منها </p>
+    <ul>
+        <li>فاعليات و توزيع جواهر</li>
+        <li>فاعليات و توزيع اكواد</li>
+        <li>رومات جلد على جواهر</li>
+        <li>رومات جلدو نوزيع اكواد</li>
+    </ul>
+
+    <p>قناتي القديمه</p>
+    <img src="IMG_٢٠٢٤١١٢٩_١٦٠٤٠٢.jpg" width="555px">
+    <br>
+    <br>
+    <br>
+    <br>
+    <p>بدايه جديده مع احلى و اجدع اخوات</p>
+
+
+    <a id="hossam" href="http://www.youtube.com/@kaylarff" target="_blank"> قناتي على اليوتيوب</a>
+    <br>
+    <br>
+    <a id="ahmed" href="https://www.tiktok.com/@kaylarff?is_from_webapp=1&sender_device=pc" target="_blank">قناتي على التيكتوك</a>
+    <br>
+    <br>
+    <a id="ghost" href="https:www.instagram.com/kaylar_ff" target="_blank">صفحتي على الانستا</a>
+    <br>
+    <br>
+    <button><a id="yoyo" href="https://whatsapp.com/channel/0029VaEic2kBA1f5tW9dwQ1b" target="_blank">قناتي على الواتس لشحن جميع الالعاب</a></button>
+    <br>
+
+
+</body>
